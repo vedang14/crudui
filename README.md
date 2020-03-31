@@ -5,6 +5,8 @@ framework of your choice. You should be able to create, show and delete records 
 Outcomes :
 Successfully developed full fledged Application comprising all the CRUD functionality as specified for TASK 1, utilizing SpringBoot,MongoDB and Thymeleaf Template Engine.
 
+To Run the project go to the root directory make sure mongodb is running and in terminal type ./gradlew bootRun .
+
 1. Listing all server objects on GET :
 ![alt Text](https://github.com/vedang14/crudui/blob/master/src/main/resources/snapshots/get_req_ui.JPG)
 
